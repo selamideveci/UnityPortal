@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: db6470ae1f30cab4381825d376870293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8568653699979158717
+    second: platformOyunuLevelButonlar_0
+  - first:
+      213: 7217216387809061091
+    second: platformOyunuLevelButonlar_1
+  - first:
+      213: -8892815921256975660
+    second: platformOyunuLevelButonlar_2
+  - first:
+      213: -3501664530538053549
+    second: platformOyunuLevelButonlar_3
+  - first:
+      213: -1343612846071042955
+    second: platformOyunuLevelButonlar_4
+  - first:
+      213: 7565356978539479371
+    second: platformOyunuLevelButonlar_5
+  - first:
+      213: -4942093991526420612
+    second: platformOyunuLevelButonlar_6
+  - first:
+      213: 3212540479839064340
+    second: platformOyunuLevelButonlar_7
+  - first:
+      213: 3984726694977066707
+    second: platformOyunuLevelButonlar_8
+  - first:
+      213: 56365502485209938
+    second: platformOyunuLevelButonlar_9
+  - first:
+      213: -5786904615693253677
+    second: platformOyunuLevelButonlar_10
+  - first:
+      213: 581097247005176172
+    second: platformOyunuLevelButonlar_11
+  - first:
+      213: -7144670734746365617
+    second: platformOyunuLevelButonlar_12
+  - first:
+      213: -1928491983472987984
+    second: platformOyunuLevelButonlar_13
+  - first:
+      213: 2067751771102544721
+    second: platformOyunuLevelButonlar_14
+  - first:
+      213: -2678116348753587085
+    second: platformOyunuLevelButonlar_15
+  - first:
+      213: 5529627952051705049
+    second: platformOyunuLevelButonlar_16
+  - first:
+      213: -1527760939234437932
+    second: platformOyunuLevelButonlar_17
+  - first:
+      213: -4771306529064834668
+    second: platformOyunuLevelButonlar_18
+  - first:
+      213: 6742646696885097152
+    second: platformOyunuLevelButonlar_19
+  - first:
+      213: -1660038095482423640
+    second: platformOyunuLevelButonlar_20
+  - first:
+      213: -5961892102021247349
+    second: platformOyunuLevelButonlar_21
+  - first:
+      213: 4331738714441194425
+    second: platformOyunuLevelButonlar_22
+  - first:
+      213: 6577360755064591415
+    second: platformOyunuLevelButonlar_23
+  - first:
+      213: 4259250318809208629
+    second: platformOyunuLevelButonlar_24
+  - first:
+      213: -6983105994401622640
+    second: platformOyunuLevelButonlar_25
+  - first:
+      213: 637702623209997146
+    second: platformOyunuLevelButonlar_26
+  - first:
+      213: -7020984801979108586
+    second: platformOyunuLevelButonlar_27
+  - first:
+      213: 8292157566874787698
+    second: platformOyunuLevelButonlar_28
+  - first:
+      213: -3820916707919522547
+    second: platformOyunuLevelButonlar_29
+  - first:
+      213: 6934063015690965131
+    second: platformOyunuLevelButonlar_30
+  - first:
+      213: 512930588791676808
+    second: platformOyunuLevelButonlar_31
+  - first:
+      213: 3061547987490755874
+    second: platformOyunuLevelButonlar_32
+  - first:
+      213: -4054551838234716606
+    second: platformOyunuLevelButonlar_33
+  - first:
+      213: 4363802494923651824
+    second: platformOyunuLevelButonlar_34
+  - first:
+      213: -6846333763232865416
+    second: platformOyunuLevelButonlar_35
+  - first:
+      213: -8664805342601891277
+    second: platformOyunuLevelButonlar_36
+  - first:
+      213: -318479683703890717
+    second: platformOyunuLevelButonlar_37
+  - first:
+      213: -6129073378180136836
+    second: platformOyunuLevelButonlar_38
+  - first:
+      213: -9019973089071746526
+    second: platformOyunuLevelButonlar_39
+  - first:
+      213: -6908853117058686748
+    second: platformOyunuLevelButonlar_40
+  - first:
+      213: -2102389161923202377
+    second: platformOyunuLevelButonlar_41
+  - first:
+      213: 5876857368742990437
+    second: platformOyunuLevelButonlar_42
+  - first:
+      213: 1623337496740231923
+    second: platformOyunuLevelButonlar_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1484
+        width: 610
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db428963429f9e670800000000000000
+      internalID: 8568653699979158717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1484
+        width: 591
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ac76f014b82460800000000000000
+      internalID: 7217216387809061091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_2
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1209
+        width: 377
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23a88290f569480800000000000000
+      internalID: -8892815921256975660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1291
+        width: 610
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c1be79a6976fc0800000000000000
+      internalID: -3501664530538053549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1290
+        width: 591
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca84a3c378a5de0800000000000000
+      internalID: -1343612846071042955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1097
+        width: 610
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b414ed8c61c8df860800000000000000
+      internalID: 7565356978539479371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1095
+        width: 591
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa974f2b72a6bb0800000000000000
+      internalID: -4942093991526420612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_7
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 732
+        width: 421
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411de5fab8c359c20800000000000000
+      internalID: 3212540479839064340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 902
+        width: 610
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6df1d21d79c4730800000000000000
+      internalID: 3984726694977066707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 901
+        width: 591
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a739302048c000800000000000000
+      internalID: 56365502485209938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 526
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3098099e8c0bfa0800000000000000
+      internalID: -5786904615693253677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 428
+        width: 359
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4dc1e335f2dbc40800000000000000
+      internalID: 5529627952051705049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_17
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 509
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d63b258d4ccae0800000000000000
+      internalID: -1527760939234437932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_18
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 441
+        width: 353
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a694cdf9e8cdb0800000000000000
+      internalID: -4771306529064834668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 416
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c21ccd5271b29d50800000000000000
+      internalID: 6742646696885097152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 303
+        width: 615
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5344c8382399d800800000000000000
+      internalID: 637702623209997146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 148
+        width: 353
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2bfe73230d2d2e0800000000000000
+      internalID: -2102389161923202377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_42
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 141
+        width: 359
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5621093d3aace8150800000000000000
+      internalID: 5876857368742990437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuLevelButonlar_43
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 223
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf5cb3ad0478610800000000000000
+      internalID: 1623337496740231923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

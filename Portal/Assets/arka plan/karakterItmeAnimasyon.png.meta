@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 64e91b39a568cfa42a2183176200aba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3287449818223589127
+    second: karakterItmeAnimasyon_0
+  - first:
+      213: 1201943670992524377
+    second: karakterItmeAnimasyon_1
+  - first:
+      213: 3006771546447596989
+    second: karakterItmeAnimasyon_2
+  - first:
+      213: 3340042134482689620
+    second: karakterItmeAnimasyon_3
+  - first:
+      213: -1494574869391378450
+    second: karakterItmeAnimasyon_4
+  - first:
+      213: 8751651634233427111
+    second: karakterItmeAnimasyon_5
+  - first:
+      213: -622834872092266158
+    second: karakterItmeAnimasyon_6
+  - first:
+      213: 62467526535017697
+    second: karakterItmeAnimasyon_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 183
+        height: 391
+      alignment: 9
+      pivot: {x: 0.36689934, y: 0.6762063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84cd7dec1a062d0800000000000000
+      internalID: -3287449818223589127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 217
+        height: 394
+      alignment: 9
+      pivot: {x: 0.47113657, y: 0.6801636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d98d86692ea010800000000000000
+      internalID: 1201943670992524377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 228
+        height: 391
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.6726466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc2ca7ac23ab920800000000000000
+      internalID: 3006771546447596989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 199
+        height: 394
+      alignment: 9
+      pivot: {x: 0.4230632, y: 0.6766309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9da000a63a5e20800000000000000
+      internalID: 3340042134482689620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3
+        width: 184
+        height: 391
+      alignment: 9
+      pivot: {x: 0.3751864, y: 0.67442644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee773bb2314324be0800000000000000
+      internalID: -1494574869391378450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_5
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 217
+        height: 394
+      alignment: 9
+      pivot: {x: 0.4743433, y: 0.6783973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a443780bcc147970800000000000000
+      internalID: 8751651634233427111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_6
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 3
+        width: 228
+        height: 391
+      alignment: 9
+      pivot: {x: 0.49389488, y: 0.6762063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f637dbfe3b57f0800000000000000
+      internalID: -622834872092266158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterItmeAnimasyon_7
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 0
+        width: 200
+        height: 394
+      alignment: 9
+      pivot: {x: 0.42344788, y: 0.6801636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4fd1962ededd000800000000000000
+      internalID: 62467526535017697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

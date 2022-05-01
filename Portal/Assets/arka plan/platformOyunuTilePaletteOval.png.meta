@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: ee19058b37f8ecb4ba4e28a2a362b31b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8323256730267615324
+    second: platformOyunuTilePaletteOval_0
+  - first:
+      213: 3399040880893467213
+    second: platformOyunuTilePaletteOval_1
+  - first:
+      213: -4405202520402923057
+    second: platformOyunuTilePaletteOval_2
+  - first:
+      213: -2849283439559765828
+    second: platformOyunuTilePaletteOval_3
+  - first:
+      213: -8177526879042865633
+    second: platformOyunuTilePaletteOval_4
+  - first:
+      213: -5441949313609486872
+    second: platformOyunuTilePaletteOval_5
+  - first:
+      213: 2066784143080934122
+    second: platformOyunuTilePaletteOval_6
+  - first:
+      213: 8420345904049336948
+    second: platformOyunuTilePaletteOval_7
+  - first:
+      213: -1656448674448593118
+    second: platformOyunuTilePaletteOval_8
+  - first:
+      213: -2406657597490705089
+    second: platformOyunuTilePaletteOval_9
+  - first:
+      213: -1770588883975607858
+    second: platformOyunuTilePaletteOval_10
+  - first:
+      213: 9062605022371171832
+    second: platformOyunuTilePaletteOval_11
+  - first:
+      213: 8775906090300266944
+    second: platformOyunuTilePaletteOval_12
+  - first:
+      213: 671547197580273660
+    second: platformOyunuTilePaletteOval_13
+  - first:
+      213: -2867851248075384156
+    second: platformOyunuTilePaletteOval_14
+  - first:
+      213: -4037093692413976768
+    second: platformOyunuTilePaletteOval_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff4023a1add7c80800000000000000
+      internalID: -8323256730267615324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 740
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9faa1ca1db2f20800000000000000
+      internalID: 3399040880893467213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 740
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17abfb5a39dd2c0800000000000000
+      internalID: -4405202520402923057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 740
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb013a0decf4578d0800000000000000
+      internalID: -2849283439559765828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f07141a6938e80800000000000000
+      internalID: -8177526879042865633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 447
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed20a49eef4a74b0800000000000000
+      internalID: -5441949313609486872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 447
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacfb35a31beac10800000000000000
+      internalID: 2066784143080934122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 447
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b6c0acf31bd470800000000000000
+      internalID: 8420345904049336948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f23d2f4bc1309e0800000000000000
+      internalID: -1656448674448593118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 166
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d42958aa5d99ed0800000000000000
+      internalID: -2406657597490705089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 166
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e06f7aca9d67e0800000000000000
+      internalID: -1770588883975607858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 166
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdca1a8047d4cd70800000000000000
+      internalID: 9062605022371171832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d886a7184ac970800000000000000
+      internalID: 8775906090300266944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 257
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76ea14e90d15900800000000000000
+      internalID: 671547197580273660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 257
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa5ec10c785338d0800000000000000
+      internalID: -2867851248075384156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformOyunuTilePaletteOval_15
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 257
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd1ba1dac59f7c0800000000000000
+      internalID: -4037093692413976768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
